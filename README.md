@@ -1,12 +1,24 @@
-# React + Vite
+👋 Hi, I'm Rania Alvi
+Welcome to my GitHub Portfolio! 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm a passionate Software Engineer with hands-on experience specializing in backend development and building scalable applications. I enjoy solving complex problems, contributing to impactful projects and always learning more.
 
-Currently, two official plugins are available:
+🧰 Tech Stack
+Languages: C, Python, Java, JavaScript, TypeScript, HTML/CSS
+Frontend: React, Next.js
+Backend: Node.js, .NET, JSP
+Databases: PostgreSQL, MySQL, SQLite
+Tools: Git, Postman, Firebase, VS Code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💼 Professional Experience
+🚀 Freelance Software Developer
 
-## Expanding the ESLint configuration
+🗂️ Projects
+⚡ BrewBase (In Progress)
+An interactive platform that allows you to find coffee spots best-suited for studying or remote work.
+- Tech: React, JavaScript, Node.js, MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📫 Let's Connect
+LinkedIn
+GitHub
+Thanks for visiting my portfolio! ⭐
